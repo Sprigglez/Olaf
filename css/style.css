@@ -1,0 +1,57 @@
+#wrapper{
+	width: 1000px;
+	height: 800px;
+}
+
+
+#A {
+	float: left;
+	width: 25%;
+	height: 100%;
+	background-color: red;
+
+}
+
+#center{
+	display: inline-block;
+	margin-top: 100px;
+	width: 80%;
+	height: 400px;
+}
+
+#startButton{
+	background-color: white;
+	height: 100px;
+}
+
+#image{
+	color: white;
+	font-size: 80px;
+	background-color: black;
+	height: 200px;
+}
+
+#level{
+	background-color: purple;
+	height: 100px;
+}
+
+#check{
+	background-color: pink;
+	height: 100px;s
+}
+
+#B {
+	float: left;
+	width: 50%;
+	height: 100%;
+	background-color: green;
+	text-align: center;
+}
+
+#C {
+	float: left;
+	width: 25%;
+	height: 100%;
+	background-color: blue;
+}
