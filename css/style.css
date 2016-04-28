@@ -1,15 +1,12 @@
 #wrapper{
-	width: 1000px;
-	height: 800px;
+	width: 100%;
+	height: 4000px;
+	background-color: darkblue;
+	text-align: center;
 }
 
-
-#A {
-	float: left;
-	width: 25%;
-	height: 100%;
-	background-color: red;
-
+button{
+	font-size: 40px;
 }
 
 #center{
@@ -20,38 +17,29 @@
 }
 
 #startButton{
-	background-color: white;
+	background-color: yellow;
 	height: 100px;
 }
 
 #image{
-	color: white;
+	color: blue;
 	font-size: 80px;
-	background-color: black;
+	background-color: yellow;
 	height: 200px;
 }
 
 #level{
-	background-color: purple;
+	background-color: yellow;
+	color: darkblue;
 	height: 100px;
+	font-size: 30px;
+	font-family: sans-serif;
 }
 
 #check{
-	background-color: pink;
-	height: 100px;s
-}
-
-#B {
-	float: left;
-	width: 50%;
-	height: 100%;
-	background-color: green;
-	text-align: center;
-}
-
-#C {
-	float: left;
-	width: 25%;
-	height: 100%;
-	background-color: blue;
+	background-color: yellow;
+	color: darkblue;
+	height: 100px;
+	font-size: 30px;
+	font-family: sans-serif;
 }
